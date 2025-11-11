@@ -1,6 +1,6 @@
 # Anchors in the Machine: Behavioral and Attributional Evidence of Anchoring Bias in Large Language Models
 
-[![arXiv](https://img.shields.io/badge/arXiv-Placeholder-red)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-Placeholder-red)](https://arxiv.org/abs/2511.05766)
 
 This repository contains the code, datasets, and replication notebooks for the preprint *Anchors in the Machine: Behavioral and Attributional Evidence of Anchoring Bias in Large Language Models* (link to be added once live on arXiv).
 It replicates and extends Tversky & Kahneman’s classic anchoring experiment across six open-source LLMs.
@@ -101,5 +101,5 @@ export HUGGINGFACE_TOKEN=hf_xxxxxxxxxxxxx
 - Overall, attributional approaches serve as a **middle ground between behavioral observation and causal interpretability**, bridging behavioral science and AI safety research.
 
 
-Full details in the preprint: [arXiv link to be added](https://arxiv.org/abs/XXXX.XXXXX)
+Full details in the preprint: [arXiv link to be added](https://arxiv.org/abs/2511.05766)
 
